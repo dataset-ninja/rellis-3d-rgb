@@ -1,4 +1,4 @@
-**RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics** is a dataset for instance segmentation, semantic segmentation, and object detection tasks. It is used in the robotics industry. 
+**RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics (RGB)** is a dataset for instance segmentation, semantic segmentation, and object detection tasks. It is used in the robotics industry. 
 
 The dataset consists of 5957 images with 200052 labeled objects belonging to 19 different classes including *grass*, *sky*, *bush*, and other: *tree*, *mud*, *concrete*, *barrier*, *pole*, *vehicle*, *puddle*, *building*, *object*, *rubble*, *person*, *fence*, *asphalt*, *log*, *water*, and *dirt*.
 

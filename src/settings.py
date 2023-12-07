@@ -14,8 +14,8 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "RELLIS-3D: RGB"
-PROJECT_NAME_FULL: str = "RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+PROJECT_NAME_FULL: str = "RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics (RGB)"
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
