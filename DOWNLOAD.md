@@ -1,6 +1,6 @@
 Dataset **RELLIS-3D: RGB** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzMwOTRfUkVMTElTLTNEOiBSR0IvcmVsbGlzM2QtcmdiLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIkl4Q2YwclhyVWRMYVozWXJIZGhLeFFPV2h5OTdRbytPWHNoSzlFNHU3VGs9In0=)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMzA5NF9SRUxMSVMtM0Q6IFJHQi9yZWxsaXMzZC1yZ2ItRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiU3luMkY1QnpPdnJuQU1TTlBydEF1ZlpqVTZjR0crQlNjT2VIYUZrUzQrRT0ifQ==?response-content-disposition=attachment%3B%20filename%3D%22rellis3d-rgb-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
